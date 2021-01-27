@@ -1,0 +1,7 @@
+The average income for males is: $27225.83
+The average income for females is: $28646.32
+The amount of females with a mortgage and savings account: 71
+The amount of males that have a car, one child and live in the inner city: 15
+The amount of males that have a car, one child and live in the suburbs: 3
+The amount of males that have a car, one child and live in a town: 7
+The amount of males that have a car, one child and live in a rural area: 9
